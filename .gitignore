@@ -1,5 +1,6 @@
-# Archives
-*.zip
+# Large backups — too big for GitHub's 100MB per-file limit
+/Duck_soft.zip
+/SolidWorks-FT2026-09-25.zip
 
 # Python
 __pycache__/
