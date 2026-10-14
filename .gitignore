@@ -1,0 +1,23 @@
+# Archives
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.eggs/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Rust / Cargo
+target/
+
+# Node
+node_modules/
+
+# ML runs / logs
+wandb/

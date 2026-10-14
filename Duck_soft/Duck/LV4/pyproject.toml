@@ -1,0 +1,33 @@
+[project]
+name = "aif"
+version = "0.1.0"
+description = "Domain-agnostic active-inference & decision framework with three layers of self (interoception, metacognition, structure learning), built on pymdp."
+readme = "README.md"
+authors = [
+    { name = "shixinchao", email = "shixinchao_error0@163.com" }
+]
+requires-python = ">=3.11"
+dependencies = [
+    "inferactively-pymdp>=1.0.4",
+]
+
+[build-system]
+requires = ["uv_build>=0.11.5,<0.12.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+    "ruff>=0.8",
+    "matplotlib>=3.8",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "W", "UP", "B"]
