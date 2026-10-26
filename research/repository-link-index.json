@@ -1,0 +1,2256 @@
+[
+  {
+    "url": "http://10.42.0.1:8088",
+    "referenced_by": [
+      "docs/HD1910-20261012-kissqy镜像R1分析.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "http://127.0.0.1:8080",
+    "referenced_by": [
+      "tools/servo-web/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "http://127.0.0.1:8080：",
+    "referenced_by": [
+      "tools/servo-web/远程排查交接.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "http://127.0.0.1:8090",
+    "referenced_by": [
+      "docs/HD1910-20261012-kissqy整套上机.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "http://192.168.0.100:7890",
+    "referenced_by": [
+      "docs/HD1910-20261012-kissqy整套上机.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "http://192.168.0.102:8080",
+    "referenced_by": [
+      "踩坑记录.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "http://doc.feetech.cn",
+    "referenced_by": [
+      "docs/硬件方案逆向.md",
+      "hardware/imu_to_dxl/imu_to_dxl-接线表.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "http://doc.feetech.cn/#/prodinfodownload?srcType=FTServo-emanual-ab4947a479784a71a8cb7928",
+    "referenced_by": [
+      "docs/飞特资料/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "http://doc.feetech.cn/#/tiaozhunlujingft?srcType=FT-SCS-Protocol-41ad23fe8a244712ba160b93",
+    "referenced_by": [
+      "docs/飞特资料/磁编码SMS内存表手册-v1.1-2026-08-27.md",
+      "docs/飞特资料/磁编码STS内存表手册-v1.1-2026-08-27.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "http://doc.feetech.cn/)最新版",
+    "referenced_by": [
+      "踩坑记录.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "http://longbos.com:9009/workflow/yf-specification/getBysrcType/FTServo-emanual-ab4947a479784a71a8cb7928",
+    "referenced_by": [
+      "docs/飞特资料/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "http://longbos.com:9009/workflow/yf-specification/getQr/",
+    "referenced_by": [
+      "docs/飞特资料/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "http://www.apache.org/licenses/",
+    "referenced_by": [
+      "hardware/imu_to_dxl/firmware/Drivers/CMSIS/Device/ST/STM32G0xx/LICENSE.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "http://www.apache.org/licenses/LICENSE-2.0",
+    "referenced_by": [
+      "hardware/imu_to_dxl/firmware/Drivers/CMSIS/Device/ST/STM32G0xx/LICENSE.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "http://主板IP:8080",
+    "referenced_by": [
+      "tools/servo-web/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "http://主板IP:8080/",
+    "referenced_by": [
+      "tools/radxa/联网与HAT调试记录-20260928.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "http://电脑IP:7890",
+    "referenced_by": [
+      "docs/不打HAT.md",
+      "踩坑记录.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://allnetchina.taobao.com",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://detail.tmall.com/item.htm?id=637524754721",
+    "referenced_by": [
+      "docs/机械采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://detail.tmall.com/item.htm?id=653848839737",
+    "referenced_by": [
+      "docs/机械采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://detail.tmall.com/item.htm?id=658975825526",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://detail.tmall.com/item.htm?id=725486284128",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://detail.tmall.com/item.htm?id=752703346347",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://detail.tmall.com/item.htm?id=775872575316",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://detail.tmall.com/item.htm?id=809364062256",
+    "referenced_by": [
+      "docs/机械采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://detail.tmall.com/item.htm?id=874789708454",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://detail.tmall.com/item.htm?id=926961598924",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://detail.tmall.com/item.htm?id=978199812185&skuId=6245616343131)。图纸仓",
+    "referenced_by": [
+      "docs/机械采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://docs.astral.sh/uv/",
+    "referenced_by": [
+      "software/training/README.md",
+      "software/training/README.upstream.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://docs.astral.sh/uv/)，插上手柄，运行",
+    "referenced_by": [
+      "docs/HD1910-20261013-官方更新与UDP手柄.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://docs.radxa.com/accessories/camera/camera-8m-219",
+    "referenced_by": [
+      "tools/radxa/摄像头调试记录-20260928.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://docs.radxa.com/en/zero/zero3",
+    "referenced_by": [
+      "tools/radxa/摄像头调试记录-20260928.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://docs.radxa.com/en/zero/zero3)及",
+    "referenced_by": [
+      "tools/radxa/镜像使用说明.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://docs.radxa.com/zero/zero3/accessories/camera",
+    "referenced_by": [
+      "tools/radxa/摄像头调试记录-20260928.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://emanual.robotis.com/docs/en/dxl/x/xl330-m288/",
+    "referenced_by": [
+      "BOM.en.md",
+      "BOM.md",
+      "docs/actuator-selection.en.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://emanual.robotis.com/docs/en/dxl/x/xl330-m288/)，2026-09-04",
+    "referenced_by": [
+      "docs/执行器选型.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://fi.mirror.armbian.de/archive/radxa-zero3/archive/",
+    "referenced_by": [
+      "tools/radxa/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://fi.mirror.armbian.de/archive/radxa-zero3/archive/Armbian_26.2.1_Radxa-zero3_trixie_vendor_6.1.115_minimal.img.xz",
+    "referenced_by": [
+      "docs/不打HAT.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://gitee.com/ftservo",
+    "referenced_by": [
+      "调试记录.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://gitee.com/ftservo/FTServo_Linux)、Python",
+    "referenced_by": [
+      "docs/飞特资料/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://gitee.com/ftservo/FTServo_Python",
+    "referenced_by": [
+      "docs/飞特资料/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://gitee.com/ftservo/fddebug",
+    "referenced_by": [
+      "tools/飞特/README.md",
+      "调试记录.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://gitee.com/ftservo/fddebug)、Linux",
+    "referenced_by": [
+      "docs/飞特资料/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://gitee.com/ftservo/fddebug)，2026-09-11",
+    "referenced_by": [
+      "NOTICE.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://gitee.com/ftservo/ftservo-bam",
+    "referenced_by": [
+      "README.en.md",
+      "docs/ecosystem.en.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://gitee.com/ftservo/ftservo-bam)（Apache-2.0，2026-09",
+    "referenced_by": [
+      "docs/HD1910-20261013-夜-掉电-舵机D与蹭地.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://gitee.com/ftservo/ftservo-bam)（Apache-2.0，Rhoban/BAM",
+    "referenced_by": [
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://gitee.com/ftservo/ftservo-bam)（Gitee）",
+    "referenced_by": [
+      "docs/软件来源与我们的改动.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://gitee.com/ftservo/ftservo-bam)（Gitee，Apache-2.0），厂家自己辨识的参数和专门的控制模型，可以跟陆吾那份对比着选；我们还没验证哪份更准，接入时要注意的几点见[参数来源说明](docs/HD-1910-M6参数来源.md#飞特官方-hd-1910-bam",
+    "referenced_by": [
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://gitee.com/ftservo/ftservo-bam)（Gitee，飞特官方）",
+    "referenced_by": [
+      "docs/生态导航.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://gitee.com/ftservo/ftservo-bam)，是",
+    "referenced_by": [
+      "docs/HD-1910-M6参数来源.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/ARM-software/CMSIS_6/tree/v6.2.0",
+    "referenced_by": [
+      "hardware/imu_to_dxl/firmware/DEPENDENCIES.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/Abo1ish",
+    "referenced_by": [
+      "README.en.md",
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/AlexBodner/microduck-tracking",
+    "referenced_by": [
+      "docs/ecosystem.en.md",
+      "docs/生态导航.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/DoraCN/feetech-servo-sdk)（MIT，0.3.0），我们不用它：主控运行时已经依赖",
+    "referenced_by": [
+      "software/飞特适配架构.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/IronSpiderMan/MicroDuckModels",
+    "referenced_by": [
+      "docs/ecosystem.en.md",
+      "docs/生态导航.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/LathamZ",
+    "referenced_by": [
+      "README.en.md",
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/LathamZ/microduck-color-studio",
+    "referenced_by": [
+      "README.en.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/LathamZ/microduck-color-studio)（[在线试用](https://lathamz.github.io/microduck-color-studio/)）",
+    "referenced_by": [
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/LuwuDynamics",
+    "referenced_by": [
+      "docs/HD-1910-M6参数来源.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/LuwuDynamics/xgoduck_rl",
+    "referenced_by": [
+      "NOTICE.md",
+      "README.md",
+      "docs/HD-1910-M6参数来源.md",
+      "docs/软件来源与我们的改动.md",
+      "software/training/UPSTREAM.md",
+      "software/training/docs/hd1910-baseline.md",
+      "software/training/src/mjlab_microduck/robot/hd1910/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/LuwuDynamics/xgoduck_rl)**",
+    "referenced_by": [
+      "README.en.md",
+      "software/training/README.upstream.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/LuwuDynamics/xgoduck_rl/blob/326d77a1122870bdefa2c36403937502c958e69c/LICENSE",
+    "referenced_by": [
+      "docs/HD-1910-M6参数来源.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/LuwuDynamics/xgoduck_rl/blob/326d77a1122870bdefa2c36403937502c958e69c/src/mjlab_microduck/robot/xgoduck/params/1910_m6.json",
+    "referenced_by": [
+      "docs/HD-1910-M6参数来源.md",
+      "software/training/src/mjlab_microduck/robot/hd1910/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/LuwuDynamics/xgoduck_rl/blob/326d77a1122870bdefa2c36403937502c958e69c/src/mjlab_microduck/robot/xgoduck_constants.py",
+    "referenced_by": [
+      "docs/HD-1910-M6参数来源.md",
+      "software/training/src/mjlab_microduck/robot/hd1910/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/Macmachi/microduck-rl-genesis",
+    "referenced_by": [
+      "docs/ecosystem.en.md",
+      "docs/生态导航.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/Rhoban/bam",
+    "referenced_by": [
+      "NOTICE.md",
+      "README.en.md",
+      "docs/HD-1910-M6参数来源.md",
+      "docs/HD-1910训练前数据清单.md",
+      "docs/actuator-selection.en.md",
+      "software/training/README.upstream.md",
+      "software/training/UPSTREAM.md",
+      "software/training/docs/hd1910-baseline.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/Rhoban/bam)。参数不是本项目自行辨识的结果",
+    "referenced_by": [
+      "software/training/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/Rhoban/bam)。已通过接入测试和短训练检查，尚无本机实测通过的走路策略",
+    "referenced_by": [
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/Rhoban/bam)，其",
+    "referenced_by": [
+      "docs/执行器选型.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/Rhoban/bam)：执行器模型和辨识框架，Apache-2.0",
+    "referenced_by": [
+      "software/training/src/mjlab_microduck/robot/hd1910/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/Rhoban/bam)；本地训练框架和",
+    "referenced_by": [
+      "docs/HD-1910-M6参数来源.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/Rhoban/microban",
+    "referenced_by": [
+      "docs/ecosystem.en.md",
+      "docs/生态导航.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/Rhoban/microban)**",
+    "referenced_by": [
+      "docs/hardware-teardown.en.md",
+      "docs/硬件方案逆向.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/Rhoban/onshape-to-robot",
+    "referenced_by": [
+      "software/training/README.upstream.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/STMicroelectronics/STMems_Standard_C_drivers/blob/master/lsm6dsv16x_STdC/examples/lsm6dsv16x_sensor_fusion.c",
+    "referenced_by": [
+      "BOM.md",
+      "hardware/imu_to_dxl/firmware/Drivers/LSM6DSV16X/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/STMicroelectronics/cmsis-device-g0/tree/f576c24e123edf3332988ecd49512c0f35f85186)，commit",
+    "referenced_by": [
+      "hardware/imu_to_dxl/firmware/DEPENDENCIES.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/STMicroelectronics/lsm6dsv16x-pid",
+    "referenced_by": [
+      "BOM.md",
+      "hardware/imu_to_dxl/firmware/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/STMicroelectronics/lsm6dsv16x-pid/tree/2808e5cd6b85f91b66758e1dd0faab5f043aba07",
+    "referenced_by": [
+      "hardware/imu_to_dxl/firmware/Drivers/LSM6DSV16X/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/STMicroelectronics/lsm6dsv16x-pid/tree/2808e5cd6b85f91b66758e1dd0faab5f043aba07)，commit",
+    "referenced_by": [
+      "hardware/imu_to_dxl/firmware/DEPENDENCIES.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/SaberOnGo/open-microduck",
+    "referenced_by": [
+      "docs/ecosystem.en.md",
+      "docs/生态导航.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/ScrapMeta/microduck-diy",
+    "referenced_by": [
+      "docs/ecosystem.en.md",
+      "docs/生态导航.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/TommyZihao/microduck_runtime",
+    "referenced_by": [
+      "docs/ecosystem.en.md",
+      "docs/生态导航.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/Vottivott/microduck-playground",
+    "referenced_by": [
+      "docs/ecosystem.en.md",
+      "docs/生态导航.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/aj-dev-smith/microduck-mcp",
+    "referenced_by": [
+      "docs/ecosystem.en.md",
+      "docs/生态导航.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/apirrone/Open_Duck_Mini)**",
+    "referenced_by": [
+      "docs/actuator-selection.en.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/apirrone/Open_Duck_Mini)**（它全套开源：BOM、Onshape",
+    "referenced_by": [
+      "docs/执行器选型.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/apirrone/microduck_rl",
+    "referenced_by": [
+      "tools/servo-web/README.md",
+      "tools/servo-web/model/NOTICE.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/boris721/microduck-3d",
+    "referenced_by": [
+      "docs/ecosystem.en.md",
+      "docs/生态导航.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/craigm26/duckkit",
+    "referenced_by": [
+      "docs/ecosystem.en.md",
+      "docs/生态导航.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/Microduck-kissqy",
+    "referenced_by": [
+      "README.en.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/Microduck-kissqy)**",
+    "referenced_by": [
+      "README.en.md",
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/Microduck-kissqy)（分支",
+    "referenced_by": [
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/Microduck-kissqy)），只放",
+    "referenced_by": [
+      "docs/软件来源与我们的改动.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/Microduck-kissqy/blob/hd1910-v167-gyro-fusion/IMU-MODULE.md",
+    "referenced_by": [
+      "README.en.md",
+      "docs/HD1910-20261015-IMU乱跳根因与陀螺融合上机.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/Microduck-kissqy/blob/hd1910-v167-gyro-fusion/IMU-MODULE.md)）。[完整记录：现象、排查策略、分析、解决、上机数据](docs/HD1910-20261015-IMU乱跳根因与陀螺融合上机.md",
+    "referenced_by": [
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/Microduck-kissqy/blob/hd1910-v167-gyro-fusion/microduck-hd1910/firmware/docs/design/robotd-design.md",
+    "referenced_by": [
+      "docs/HD1910-20261015-IMU乱跳根因与陀螺融合上机.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/Microduck-kissqy/blob/hd1910-v167-gyro-fusion/microduck-hd1910/firmware/docs/project/trunk-imu-i2c.zh-CN.md",
+    "referenced_by": [
+      "docs/HD1910-20261015-IMU乱跳根因与陀螺融合上机.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/Microduck-kissqy/blob/hd1910-v167-trunk-imu-i2c/IMU-MODULE.md",
+    "referenced_by": [
+      "README.en.md",
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/Microduck-kissqy/blob/hd1910-v167-trunk-imu-i2c/IMU-MODULE.md)。顺带：kissqy",
+    "referenced_by": [
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/Microduck-kissqy/blob/hd1910-v167-trunk-imu-i2c/IMU-MODULE.md)；V167",
+    "referenced_by": [
+      "docs/软件来源与我们的改动.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/Microduck-kissqy/tree/hd1910-v167-gyro-fusion",
+    "referenced_by": [
+      "README.en.md",
+      "踩坑记录.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/Microduck-kissqy/tree/hd1910-v167-gyro-fusion)（默认仍是原来的模式，要自己切，见",
+    "referenced_by": [
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/Microduck-kissqy/tree/hd1910-v167-gyro-fusion)，[",
+    "referenced_by": [
+      "docs/HD1910-20261015-IMU乱跳根因与陀螺融合上机.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/Microduck-kissqy/tree/hd1910-v167-gyro-fusion)，默认仍是",
+    "referenced_by": [
+      "docs/HD1910-20261015-IMU乱跳根因与陀螺融合上机.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck",
+    "referenced_by": [
+      "software/飞特适配架构.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica",
+    "referenced_by": [
+      "PROGRESS.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica-cad",
+    "referenced_by": [
+      "NOTICE.md",
+      "PROGRESS.md",
+      "README.en.md",
+      "README.md",
+      "cad/README.md",
+      "docs/CAD结构件版本核对-20260928.md",
+      "docs/ecosystem.en.md",
+      "docs/执行器选型.md",
+      "print/README.en.md",
+      "print/README.md",
+      "tools/servo-web/README.md",
+      "构建日志.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica-cad#两个版本选一个下",
+    "referenced_by": [
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica-cad#两个版本选一个下)，舵盘配合件不能混用",
+    "referenced_by": [
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica-cad#两个版本选一个下)；截至",
+    "referenced_by": [
+      "print/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica-cad#装配-bom",
+    "referenced_by": [
+      "BOM.en.md",
+      "BOM.md",
+      "docs/机械采购清单.md",
+      "docs/电控采购清单.md",
+      "docs/硬件规格速查.md",
+      "print/README.en.md",
+      "print/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica-cad#装配-bom)**",
+    "referenced_by": [
+      "README.en.md",
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica-cad#装配-bom).**",
+    "referenced_by": [
+      "BOM.en.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica-cad#装配-bom)。**",
+    "referenced_by": [
+      "BOM.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica-cad#装配-bom)，不要按上游仿真引用数下单。**",
+    "referenced_by": [
+      "docs/机械采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica-cad)**",
+    "referenced_by": [
+      "README.en.md",
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica-cad).**",
+    "referenced_by": [
+      "README.en.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica-cad):",
+    "referenced_by": [
+      "README.en.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica-cad)。**",
+    "referenced_by": [
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica-cad)。请从那里选择与你的舵机对应的版本。**",
+    "referenced_by": [
+      "print/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica-cad)基础上接着改：适配飞特舵机（他仓库里写作",
+    "referenced_by": [
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica-cad)里的装配",
+    "referenced_by": [
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica-cad)）——",
+    "referenced_by": [
+      "BOM.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica-cad)）重算质量属性",
+    "referenced_by": [
+      "docs/HD-1910训练前数据清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica-cad)；[版本提示](../print/README.md",
+    "referenced_by": [
+      "docs/生态导航.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica-cad)；引入飞特舵机参数不等于已更新",
+    "referenced_by": [
+      "software/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica-cad)；本仓装配渲染只作上游分析参考",
+    "referenced_by": [
+      "docs/生态导航.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica-cad/releases/tag/v1.1",
+    "referenced_by": [
+      "README.en.md",
+      "README.md",
+      "docs/CAD结构件版本核对-20260928.md",
+      "print/README.en.md",
+      "print/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica-cad/releases/tag/v1.1)。下载前核对舵机类型和具体附件版本；打印注意事项见",
+    "referenced_by": [
+      "cad/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica-cad/releases/tag/v2.0)。**现在下载模型或打印工程，请统一到",
+    "referenced_by": [
+      "构建日志.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica-cad/releases/tag/v2.1",
+    "referenced_by": [
+      "README.en.md",
+      "README.md",
+      "docs/CAD结构件版本核对-20260928.md",
+      "print/README.en.md",
+      "print/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica-cad/releases/tag/v2.1)，XL330",
+    "referenced_by": [
+      "cad/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica-cad/releases/tag/v2.1)，文件带",
+    "referenced_by": [
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica.git",
+    "referenced_by": [
+      "software/training/README.md",
+      "software/training/docs/hd1910-baseline.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica/blob/master/tools/radxa/%E6%91%84%E5%83%8F%E5%A4%B4%E8%B0%83%E8%AF%95%E8%AE%B0%E5%BD%95-20260928.md",
+    "referenced_by": [
+      "tools/radxa/release-notes-20260920.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica/blob/master/tools/radxa/%E9%95%9C%E5%83%8F%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md#%E6%97%A7%E7%89%88%E5%8D%A1%E9%87%8D%E6%96%B0%E7%94%9F%E6%88%90-ssh-%E4%B8%BB%E6%9C%BA%E5%AF%86%E9%92%A5)通过本地终端重新生成，不必重刷",
+    "referenced_by": [
+      "tools/radxa/release-notes-20260920.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica/blob/master/tools/radxa/%E9%95%9C%E5%83%8F%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md#4-%E8%BF%9E-wifi)的“第一次联网，或者更换",
+    "referenced_by": [
+      "tools/radxa/release-notes-20260920.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica/blob/master/tools/radxa/%E9%95%9C%E5%83%8F%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)同步",
+    "referenced_by": [
+      "tools/radxa/release-notes-20260920.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica/blob/master/tools/radxa/50Hz%E4%BF%9D%E6%8C%81%E5%A7%BF%E5%8A%BF%E8%AF%BB%E7%8A%B6%E6%80%81-20260928.md",
+    "referenced_by": [
+      "tools/radxa/release-notes-20260920.md",
+      "tools/radxa/release-notes-20260929.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica/blob/master/tools/radxa/build-armbian-card.sh)；当前脚本包含",
+    "referenced_by": [
+      "tools/radxa/release-notes-20260920.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica/issues",
+    "referenced_by": [
+      "README.en.md",
+      "README.md",
+      "hardware/imu_to_dxl/README.md",
+      "hardware/imu_to_dxl/总线协议.md",
+      "tools/radxa/release-notes-20260920.md",
+      "tools/radxa/镜像使用说明.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica/pull/27",
+    "referenced_by": [
+      "README.en.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica/pull/27)，已合并）。自己实现的最小",
+    "referenced_by": [
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica/pull/32",
+    "referenced_by": [
+      "README.en.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica/pull/32)，已合并）。给官方没开源的那块",
+    "referenced_by": [
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica/releases)（不带",
+    "referenced_by": [
+      "tools/radxa/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica/releases/tag/radxa-zero3w-armbian-20260920",
+    "referenced_by": [
+      "tools/radxa/README.md",
+      "tools/radxa/镜像使用说明.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica/releases/tag/radxa-zero3w-armbian-20260920)。已有旧卡可按指南修复，不必只为这次更新重刷",
+    "referenced_by": [
+      "tools/radxa/release-notes-20260929.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica/releases/tag/radxa-zero3w-armbian-20260929",
+    "referenced_by": [
+      "README.en.md",
+      "tools/radxa/镜像使用说明.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica/releases/tag/radxa-zero3w-armbian-20260929)经过离线校验，**尚未对这份新产物烧卡实测**。基础镜像不含机器人运行时或网页调试台",
+    "referenced_by": [
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica/releases/tag/radxa-zero3w-armbian-20260929)预置",
+    "referenced_by": [
+      "tools/radxa/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica/releases/tag/radxa-zero3w-armbian-20260929)，保留旧版；候选版已离线核查",
+    "referenced_by": [
+      "tools/radxa/镜像使用说明.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica/releases/tag/radxa-zero3w-armbian-20260929)，保留本页旧文件。候选版只做过离线检查，未对该新产物烧卡实测。离线检查还发现旧版携带预生成",
+    "referenced_by": [
+      "tools/radxa/release-notes-20260920.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica/tree/a1f4979c425bd9228622be89f2bfa4d1de7fbde3/hardware/imu_to_dxl",
+    "referenced_by": [
+      "hardware/imu_to_dxl/firmware/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica/tree/a23f4c18a4741a3cde5257e639960ea37bbadd8d/cad",
+    "referenced_by": [
+      "docs/CAD结构件版本核对-20260928.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica/tree/a23f4c18a4741a3cde5257e639960ea37bbadd8d/print",
+    "referenced_by": [
+      "docs/CAD结构件版本核对-20260928.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica/tree/master/tools/radxa",
+    "referenced_by": [
+      "tools/radxa/release-notes-20260929.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck-replica/tree/master/tools/radxa)。自己生成的带密码镜像仅供个人使用，不要公开上传",
+    "referenced_by": [
+      "tools/radxa/release-notes-20260920.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck.git",
+    "referenced_by": [
+      "software/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck/blob/feetech/duck-control/src/bus_feetech.rs",
+    "referenced_by": [
+      "software/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck/blob/feetech/duck-control/src/bus_select.rs",
+    "referenced_by": [
+      "software/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck/blob/feetech/duck-control/src/imu.rs",
+    "referenced_by": [
+      "hardware/imu_to_dxl/总线协议.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck/tree/feetech",
+    "referenced_by": [
+      "software/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck/tree/feetech)（",
+    "referenced_by": [
+      "software/飞特适配架构.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fanhao375/microduck_rl/tree/d9e1926c5220a0eb79fa5aab9df7b336f8e9a226",
+    "referenced_by": [
+      "software/training/UPSTREAM.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fengj4780-sudo",
+    "referenced_by": [
+      "README.en.md",
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/fengj4780-sudo/MICDUCK_FTHD1901_REBUILD",
+    "referenced_by": [
+      "README.en.md",
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/joeynyc/awesome-microduck",
+    "referenced_by": [
+      "docs/ecosystem.en.md",
+      "docs/生态导航.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/jonathanhawkins/microduck-lab",
+    "referenced_by": [
+      "docs/ecosystem.en.md",
+      "docs/生态导航.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/kabilankb/isaaclab-microduck",
+    "referenced_by": [
+      "docs/ecosystem.en.md",
+      "docs/生态导航.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/kissqy",
+    "referenced_by": [
+      "README.en.md",
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/kissqy/Microduck-kissqy",
+    "referenced_by": [
+      "README.en.md",
+      "README.md",
+      "docs/软件来源与我们的改动.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/kissqy/Microduck-kissqy)**",
+    "referenced_by": [
+      "README.en.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/kissqy/Microduck-kissqy)**，感谢",
+    "referenced_by": [
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/mujocolab/mjlab",
+    "referenced_by": [
+      "software/training/AGENTS.md",
+      "software/training/README.upstream.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/pollen-robotics/AmazingHand",
+    "referenced_by": [
+      "docs/actuator-selection.en.md",
+      "docs/执行器选型.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/pollen-robotics/elec_RPI_Robot_HAT",
+    "referenced_by": [
+      "BOM.en.md",
+      "PROGRESS.md",
+      "README.en.md",
+      "README.md",
+      "docs/ecosystem.en.md",
+      "docs/hardware-teardown.en.md",
+      "docs/生态导航.md",
+      "docs/硬件入门.md",
+      "docs/硬件方案逆向.md",
+      "docs/社区动态.md",
+      "docs/软件来源与我们的改动.md",
+      "hardware/imu_to_dxl/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/pollen-robotics/elec_RPI_Robot_HAT)（Apache-2.0）",
+    "referenced_by": [
+      "BOM.md",
+      "docs/硬件方案逆向.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/pollen-robotics/elec_RPI_Robot_HAT)（Apache-2.0）：",
+    "referenced_by": [
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/pollen-robotics/elec_RPI_Robot_HAT)）",
+    "referenced_by": [
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/pollen-robotics/elec_RPI_Robot_HAT)，Apache-2.0",
+    "referenced_by": [
+      "docs/硬件规格速查.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/pollen-robotics/elec_RPI_Robot_HAT)，Apache-2.0）",
+    "referenced_by": [
+      "PROGRESS.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/pollen-robotics/elec_RPI_Robot_HAT)，Apache-2.0，含",
+    "referenced_by": [
+      "NOTICE.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/pollen-robotics/elec_RPI_Robot_HAT)，核对本地",
+    "referenced_by": [
+      "tools/radxa/HAT舵机偶发超时排查-20260928.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/pollen-robotics/lib_KiCAD",
+    "referenced_by": [
+      "docs/ecosystem.en.md",
+      "docs/hardware-teardown.en.md",
+      "docs/生态导航.md",
+      "docs/硬件方案逆向.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/pollen-robotics/lib_KiCAD)**",
+    "referenced_by": [
+      "BOM.en.md",
+      "BOM.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/pollen-robotics/microduck",
+    "referenced_by": [
+      "NOTICE.md",
+      "docs/ecosystem.en.md",
+      "docs/生态导航.md",
+      "docs/软件来源与我们的改动.md",
+      "software/README.md",
+      "software/training/README.upstream.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/pollen-robotics/microduck)，读的是",
+    "referenced_by": [
+      "software/飞特适配架构.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/pollen-robotics/microduck-gst-plugins",
+    "referenced_by": [
+      "docs/ecosystem.en.md",
+      "docs/生态导航.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/pollen-robotics/microduck/blob/5984efb770855432b03dafd3d879e9929981e45b/duck-control/src/bus.rs",
+    "referenced_by": [
+      "hardware/imu_to_dxl/firmware/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/pollen-robotics/microduck/blob/main/docs/robot/install-dev.md)，但**本镜像不能直接照搬",
+    "referenced_by": [
+      "tools/radxa/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/pollen-robotics/microduck/issues/173",
+    "referenced_by": [
+      "docs/硬件规格速查.md",
+      "docs/社区动态.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/pollen-robotics/microduck/issues/174",
+    "referenced_by": [
+      "docs/硬件规格速查.md",
+      "docs/社区动态.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/pollen-robotics/microduck/issues/175",
+    "referenced_by": [
+      "docs/硬件规格速查.md",
+      "docs/社区动态.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/pollen-robotics/microduck_rl",
+    "referenced_by": [
+      "NOTICE.md",
+      "README.en.md",
+      "README.md",
+      "docs/HD-1910-M6参数来源.md",
+      "docs/ecosystem.en.md",
+      "docs/生态导航.md",
+      "docs/软件来源与我们的改动.md",
+      "software/training/README.md",
+      "software/training/README.upstream.md",
+      "software/training/UPSTREAM.md",
+      "software/training/docs/hd1910-baseline.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/pollen-robotics/microduck_rl)：",
+    "referenced_by": [
+      "software/training/src/mjlab_microduck/robot/hd1910/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/pollen-robotics/microduck_rl)；kissqy",
+    "referenced_by": [
+      "docs/软件来源与我们的改动.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/pollen-robotics/microduck_rl)；没有",
+    "referenced_by": [
+      "docs/生态导航.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/pollen-robotics/rustypot",
+    "referenced_by": [
+      "docs/ecosystem.en.md",
+      "docs/hardware-teardown.en.md",
+      "docs/生态导航.md",
+      "docs/硬件规格速查.md",
+      "software/飞特适配架构.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/pollen-robotics/rustypot)（Pollen",
+    "referenced_by": [
+      "docs/硬件方案逆向.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/radxa-build/radxa-zero3/releases/tag/rsdk-b1)。本机测试卡仅在官方首次启动配置里预置",
+    "referenced_by": [
+      "tools/radxa/摄像头调试记录-20260928.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/rokbenko/quackd",
+    "referenced_by": [
+      "docs/ecosystem.en.md",
+      "docs/生态导航.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/user-attachments/assets/50c3d537-8db2-4005-9d9c-3472faeec4d0",
+    "referenced_by": [
+      "software/training/README.upstream.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/user-attachments/assets/5db7cc83-b3ce-4f7c-83f0-0572a63baed7",
+    "referenced_by": [
+      "software/training/README.upstream.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://github.com/yoyojacky",
+    "referenced_by": [
+      "README.en.md",
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://huggingface.co/",
+    "referenced_by": [
+      "software/training/scripts/hf/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://huggingface.co/RemiFabre/microduck-flamingo-cycle",
+    "referenced_by": [
+      "docs/ecosystem.en.md",
+      "docs/生态导航.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://huggingface.co/datasets/craigm26/microduck-stairs-challenge",
+    "referenced_by": [
+      "docs/ecosystem.en.md",
+      "docs/生态导航.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://huggingface.co/pollen-robotics/microduck-policies",
+    "referenced_by": [
+      "docs/ecosystem.en.md",
+      "docs/生态导航.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://huggingface.co/spaces/mishig/microduck-anatomy",
+    "referenced_by": [
+      "docs/ecosystem.en.md",
+      "docs/生态导航.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://huggingface.co/spaces/pollen-robotics/microduck-simulator",
+    "referenced_by": [
+      "docs/ecosystem.en.md",
+      "docs/生态导航.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://huggingface.co/spaces/pollen-robotics/microduck-simulator)，打开就能玩",
+    "referenced_by": [
+      "docs/生态导航.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.szlcsc.com/20558171.html",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=1000673642588",
+    "referenced_by": [
+      "docs/机械采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=1005305041207",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=1017038620459",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=1025775539663",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=1044607515575",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=539024647147",
+    "referenced_by": [
+      "docs/机械采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=570100064201",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=575365901461",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=587191439333",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=596521821696",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=603181554943",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=616460581906",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=654755002992",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=663963768247",
+    "referenced_by": [
+      "docs/机械采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=670727787832",
+    "referenced_by": [
+      "docs/机械采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=678057486394",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=709927597121",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=712781832610",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=760446989892",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=769633088382",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=771618094322",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=784739658496",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=788387010174",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=800894187326",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=819560127110",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=842110292995",
+    "referenced_by": [
+      "docs/机械采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=842400332284",
+    "referenced_by": [
+      "docs/机械采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=888186264852",
+    "referenced_by": [
+      "docs/机械采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=902798112263",
+    "referenced_by": [
+      "docs/机械采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=922318148975",
+    "referenced_by": [
+      "docs/机械采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=925965306702",
+    "referenced_by": [
+      "docs/机械采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=939165242465",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=942554129061",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=954634564409",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=963037239628&skuId=6069280211062)，16×22×4",
+    "referenced_by": [
+      "docs/机械采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=966212633086",
+    "referenced_by": [
+      "docs/机械采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=967946231167",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=977907234039",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://item.taobao.com/item.htm?id=983866781632",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://lathamz.github.io/microduck-color-studio/",
+    "referenced_by": [
+      "README.en.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://mirrors.ustc.edu.cn/debian",
+    "referenced_by": [
+      "踩坑记录.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://openkits-wiki.easyeda.com/zh-hans/tspi-rk3566/download-center.html",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://oshwhub.com/li-chuang-kai-fa-ban/li-chuang-tai-shan-pai-kai-fa-ban",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://pollen-robotics.com/microduck/",
+    "referenced_by": [
+      "README.en.md",
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://pyocd.io/)，**ST-Link、CMSIS-DAP（DAPLink）都能用**，不用配置文件。**J-Link",
+    "referenced_by": [
+      "tools/servo-web/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://radxa-repo.github.io/bookworm/pool/main/u/u-boot-rk2410/",
+    "referenced_by": [
+      "tools/radxa/release-notes-20260920.md",
+      "tools/radxa/镜像使用说明.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://radxa-repo.github.io/bookworm/pool/main/u/u-boot-rk2410/)，遵循",
+    "referenced_by": [
+      "tools/radxa/release-notes-20260929.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://radxa.com/distributors)列出的**中国大陆官方渠道**：",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pollen-robotics/microduck/main/scripts/provision.sh",
+    "referenced_by": [
+      "docs/不打HAT.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://rufus.ie/zh/",
+    "referenced_by": [
+      "docs/不打HAT.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://shop.allnetchina.cn/products/copy-of-radxa-zero-3w)、[Arace](https://arace.tech/",
+    "referenced_by": [
+      "docs/电控采购清单.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://space.bilibili.com/312747174",
+    "referenced_by": [
+      "README.en.md",
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://space.bilibili.com/312747174/lists/9279084?type=season",
+    "referenced_by": [
+      "README.en.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://space.bilibili.com/312747174/lists/9279084?type=season)**",
+    "referenced_by": [
+      "README.en.md",
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://space.bilibili.com/312747174/lists/9279084?type=season)**，图纸作者「机械行者Robo」一集装一个部件，共",
+    "referenced_by": [
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://space.bilibili.com/312747174/lists/9279084?type=season)，已更新到第",
+    "referenced_by": [
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://www.armbian.com/radxa-zero-3/)，26.2.1",
+    "referenced_by": [
+      "tools/radxa/release-notes-20260920.md",
+      "tools/radxa/镜像使用说明.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://www.armbian.com/radxa-zero-3/)，引导来自瑞莎",
+    "referenced_by": [
+      "tools/radxa/release-notes-20260929.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://www.bilibili.com/video/BV1EEpg6nEkD/",
+    "referenced_by": [
+      "README.en.md",
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://www.bilibili.com/video/BV1Kwpg6wE9G/",
+    "referenced_by": [
+      "README.en.md",
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://www.bilibili.com/video/BV1RoHX68EFV/",
+    "referenced_by": [
+      "README.en.md",
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://www.bilibili.com/video/BV1Xppb6tECr/",
+    "referenced_by": [
+      "README.en.md",
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://www.bilibili.com/video/BV1aKpE6hEzj/",
+    "referenced_by": [
+      "README.en.md",
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://www.bilibili.com/video/BV1ycpb6yEwB/",
+    "referenced_by": [
+      "README.en.md",
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://www.douyin.com/user/MS4wLjABAAAArLa_6yE3GE-AoRURoQnIHdbbI7yM-GHhzlgLZ-XbeYE",
+    "referenced_by": [
+      "README.en.md",
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://www.feetech.cn",
+    "referenced_by": [
+      "tools/FeeTech_HD1910M_Servo/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://www.feetech.cn/Data/feetechrc/upload/file/20220618/%E5%85%88%E7%9C%8B%E8%BF%99%E9%87%8C-%E5%85%A5%E6%89%8B%E6%95%99%E7%A8%8B2-1.pdf",
+    "referenced_by": [
+      "调试记录.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://www.feetech.cn/software.html",
+    "referenced_by": [
+      "调试记录.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://www.st.com/resource/en/datasheet/lsm6dsv16x.pdf",
+    "referenced_by": [
+      "hardware/imu_to_dxl/firmware/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://www.st.com/resource/en/datasheet/stm32g031f8.pdf",
+    "referenced_by": [
+      "hardware/imu_to_dxl/firmware/README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://www.ti.com/lit/ds/symlink/sn74lvc1g125.pdf)：使能极性、三态与逻辑电平",
+    "referenced_by": [
+      "tools/radxa/HAT舵机偶发超时排查-20260928.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://www.ti.com/lit/ds/symlink/sn74lvc1g126.pdf)、[TI",
+    "referenced_by": [
+      "tools/radxa/HAT舵机偶发超时排查-20260928.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://www.unitree.com/cn/DigitalServo/",
+    "referenced_by": [
+      "docs/actuator-selection.en.md",
+      "docs/执行器选型.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://www.unitree.com/images/%E6%97%A0%E5%88%B7%E6%95%B0%E5%AD%97%E8%88%B5%E6%9C%BAJ288S288%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C.pdf)（11",
+    "referenced_by": [
+      "docs/执行器选型.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://www.xiaohongshu.com/user/profile/5ad950114eacab046016f038",
+    "referenced_by": [
+      "README.en.md",
+      "README.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://x.com/Allyakutaku/status/2095331280233926948",
+    "referenced_by": [
+      "docs/actuator-selection.en.md",
+      "docs/执行器选型.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://x.com/ClementDelangue/status/2092931447644442635)（HF",
+    "referenced_by": [
+      "docs/社区动态.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://x.com/DataChaz/status/2094028777634533518)（826",
+    "referenced_by": [
+      "docs/社区动态.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://x.com/Thom_Wolf/status/2092923071829049592)（HF",
+    "referenced_by": [
+      "docs/社区动态.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://x.com/Thom_Wolf/status/2092959363992326236",
+    "referenced_by": [
+      "docs/社区动态.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://x.com/__Rhodium__/status/2093404140454265205",
+    "referenced_by": [
+      "docs/社区动态.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://x.com/cdngdev/status/2093721082582933639",
+    "referenced_by": [
+      "docs/社区动态.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://x.com/davidfeldt/status/2093491570867884322",
+    "referenced_by": [
+      "docs/社区动态.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://x.com/onusoz/status/2093763495846441348",
+    "referenced_by": [
+      "docs/社区动态.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://x.com/pollenrobotics/status/2092915032052879425",
+    "referenced_by": [
+      "docs/社区动态.md"
+    ],
+    "status": "extracted; not individually verified"
+  },
+  {
+    "url": "https://x.com/tspy/status/2094249218735300630",
+    "referenced_by": [
+      "README.en.md",
+      "docs/硬件规格速查.md",
+      "docs/社区动态.md"
+    ],
+    "status": "extracted; not individually verified"
+  }
+]

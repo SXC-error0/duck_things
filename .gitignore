@@ -2,6 +2,15 @@
 /Duck_soft.zip
 /SolidWorks-FT2026-09-25.zip
 
+# Raw disk images are multi-gigabyte working artifacts. Keep their compressed
+# equivalents in Git LFS instead; GitHub Free/Pro rejects LFS files over 2 GiB.
+/*.img
+
+# Local inspection/check-out scratch directories. Their useful source trees
+# are kept under research/.
+/.tmp-servo-spec/
+/_inspect_microduck_kissqy/
+
 # Python
 __pycache__/
 *.py[cod]

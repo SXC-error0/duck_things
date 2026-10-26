@@ -1,0 +1,17 @@
+*.img.xz filter=lfs diff=lfs merge=lfs -text
+*.7z binary
+*.3mf binary
+*.bin binary
+*.epro2 binary
+*.gif binary
+*.jpg binary
+*.jpeg binary
+*.mp4 binary
+*.pdf binary
+*.png binary
+*.rar binary
+*.stl binary
+*.step binary
+*.stp binary
+*.xlsx binary
+*.zip binary
